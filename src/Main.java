@@ -10,6 +10,7 @@ public class Main {
         }*/
         String str = "百二十八";
         int valuer = Integer.parseInt(str);
+        System.out.println(valuer);
 
     }
 }
